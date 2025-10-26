@@ -159,15 +159,33 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 
 
 
-#### **Prompt 7:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 7:** 
+[书法字飘於空间，无窮无盡，密密麻麻，重複，一个人穿行在这个奇幻空间里，虚实，超现实，细致逼真，细节奢华，暗黑感觉，大師作品。3d建模]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![Placeholder](path/to/your/video7_ours.gif) | ![Placeholder](path/to/your/video7_unipc.gif) | ![Placeholder](path/to/your/video7_dpm.gif) |
+| <img width="1280" height="720" alt="wuxing-lowstep__00001" src="https://github.com/user-attachments/assets/808d98f4-d2e7-40ea-b966-d6caf611bca1" /> | <img width="1280" height="720" alt="unipc__00001" src="https://github.com/user-attachments/assets/9b54148b-7e84-48b8-bee8-95fd65de07e8" /> | <img width="1280" height="720" alt="dpm_sde__00001" src="https://github.com/user-attachments/assets/c9b53a21-f01d-4496-acee-069aec490c10" /> |
 
-#### **Prompt 8:** `[在此处填入您的提示词 / Your Prompt Here]`
+
+
+
+
+
+
+
+
+#### **Prompt 8:** 
+[滂沱大雨，一个低着头的女子撑着透明的伞在雨中漫步，黑色连衣裙，长长的拖地裙摆被雨水浸湿，华丽的首饰，侧身照，青灰色暗调背景，雨夜，大风，黑色长发被吹的凌乱向后飞舞，倾斜的雨丝拍打着雨伞溅射出水花，唯美意境，独属于雨天的朦胧感，氛围光]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![Placeholder](path/to/your/video8_ours.gif) | ![Placeholder](path/to/your/video8_unipc.gif) | ![Placeholder](path/to/your/video8_dpm.gif) |
+| <img width="1280" height="720" alt="wuxing-lowstep__00001" src="https://github.com/user-attachments/assets/8ca15fd1-2850-40d4-9fb8-315416741a03" /> | <img width="1280" height="720" alt="unipc__00001" src="https://github.com/user-attachments/assets/45b073d8-5e08-4f2f-b544-d93a1f121376" /> | <img width="1280" height="720" alt="dpm_sde__00001" src="https://github.com/user-attachments/assets/9cba4cb2-918c-460a-b473-f34c5006b945" /> |
+
+
+
+
+
+
+
+
 
 #### **Prompt 9:** `[在此处填入您的提示词 / Your Prompt Here]`
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
