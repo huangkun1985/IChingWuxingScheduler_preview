@@ -1,6 +1,5 @@
 <p align="center">
   <a href="YOUR_PROJECT_REPO_LINK">
-    <img src="path/to/your/logo.png" alt="IChingWuxingScheduler Logo" width="150">
   </a>
 </p>
 
@@ -32,15 +31,15 @@ This highlight reel is a curated collection of our best clips, showcasing the sc
 这部综合演示视频是我们精选的最佳片段合集，全面展示了调度器在**色彩、细节、光影和时间连贯性**上的综合实力。如果您只有一分钟，这是了解我们工作的最佳方式。
 
 <p align="center">
-  <!-- TODO: REPLACE with your video path and thumbnail path -->
-  <!-- Suggestion: Upload to YouTube/Bilibili and embed for the best experience. -->
-  <a href="path/to/your/main_showcase_video.mp4" target="_blank" title="Click to watch the full video">
-    <img src="path/to/your/video_thumbnail.jpg" alt="IChingWuxingScheduler Showcase Video" width="80%">
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GTVA7ghpG8c" target="_blank">
+    <img src="https://img.youtube.com/vi/GTVA7ghpG8c/maxresdefault.jpg" alt="IChingWuxingScheduler Showcase Video" width="80%" style="border-radius:10px;">
   </a>
   <br>
   <em>
-    Click the thumbnail above to watch the full showcase video. <br>
-    点击上方缩略图，观看完整演示视频。
+    <strong>点击上方图片观看 YouTube 演示视频 / Click the image above to watch the showcase on YouTube</strong>
+  </em>
+</p>
   </em>
 </p>
 
@@ -52,13 +51,10 @@ We've broken down the core advantages of our scheduler into several key categori
 
 我们将调度器的核心优势拆分成了几个关键类别。每个类别下的片段都专注于展示某一特定方面的卓越表现。
 
-| 🎨 Color & Naturalness / 色彩与自然度 | 🖼️ Detail & Sharpness / 细节与清晰度 |
+| <!-- Column 1 --> | <!-- Column 2 --> |
 | :---: | :---: |
-| ![Color Demo GIF](path/to/your/color_demo.gif) | ![Detail Demo GIF](path/to/your/detail_demo.gif) |
-| *Thanks to the ODE-SDE hybrid sampling, color transitions are natural and avoid the "greasy" look, restoring the rich tones of the real world.* <br> *得益于 ODE-SDE 混合采样，色彩过渡自然、杜绝油腻感，还原真实世界的丰富色调。* | *Edge-aware processing perfectly preserves high-frequency details while suppressing noise, resulting in sharp and crisp images.* <br> *边缘感知处理在抑制噪点的同时，完美保留了高频细节，使画面清晰锐利。* |
-| **💡 Lighting & Atmosphere / 光影与氛围** | **🌊 Motion & Fluidity / 动态与流畅度** |
-| ![Lighting Demo GIF](path/to/your/lighting_demo.gif) | ![Motion Demo GIF](path/to/your/motion_demo.gif) |
-| *The smooth evolution of the velocity field creates soft, delicate shadow gradients and layered, atmospheric lighting effects.* <br> *平滑的速度场演化创造出柔和细腻的阴影渐变和富有层次感的光影效果。* | *The Wuxing dynamical system ensures temporal consistency, avoiding the flickering and abrupt changes common in other schedulers.* <br> *Wuxing 动态系统确保了时间上的连贯性，避免了其他调度器常见的闪烁和突变。* |
+| <!-- Top-Left Cell: Color --> **🎨 Color & Naturalness / 色彩与自然度** <br><br> <img src="https://github.com/user-attachments/assets/0e6fce54-5f7d-4468-94b3-b20736e551aa" alt="Color & Naturalness Demo" width="100%"> <br><br> <em>Thanks to the ODE-SDE hybrid sampling, color transitions are natural and avoid the "greasy" look, restoring the rich tones of the real world.<br>得益于 ODE-SDE 混合采样，色彩过渡自然、杜绝油腻感，还原真实世界的丰富色调。</em> | <!-- Top-Right Cell: Detail --> **🖼️ Detail & Sharpness / 细节与清晰度** <br><br> <img src="https://github.com/user-attachments/assets/35b0fff2-f012-472f-84c2-ff43f4293162" alt="Detail & Sharpness Demo" width="100%"> <br><br> <em>Edge-aware processing perfectly preserves high-frequency details while suppressing noise, resulting in sharp and crisp images.<br>边缘感知处理在抑制噪点的同时，完美保留了高频细节，使画面清晰锐利。</em> |
+| <!-- Bottom-Left Cell: Lighting --> **💡 Lighting & Atmosphere / 光影与氛围** <br><br> <img src="https://github.com/user-attachments/assets/eea365bc-73d8-4606-a3c9-9cddbd761853" alt="Lighting & Atmosphere Demo" width="100%"> <br><br> <em>The smooth evolution of the velocity field creates soft, delicate shadow gradients and layered, atmospheric lighting effects.<br>平滑的速度场演化创造出柔和细腻的阴影渐变和富有层次感的光影效果。</em> | <!-- Bottom-Right Cell: Motion --> **🌊 Motion & Fluidity / 动态与流畅度** <br><br> <img src="https://github.com/huangkun1985/IChingWuxingScheduler_preview/raw/main/02.gif" alt="Motion & Fluidity Demo" width="100%"> <br><br> <em>The Wuxing dynamical system ensures temporal consistency, avoiding the flickering and abrupt changes common in other schedulers.<br>Wuxing 动态系统确保了时间上的连贯性，避免了其他调度器常见的闪烁和突变。</em> |
 
 ---
 
@@ -81,7 +77,10 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 #### **Prompt 1:** `[在此处填入您的提示词 / Your Prompt Here]`
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![Placeholder](path/to/your/video1_ours.gif) | ![Placeholder](path/to/your/video1_unipc.gif) | ![Placeholder](path/to/your/video1_dpm.gif) |
+| <img src="https://github.com/user-attachments/assets/74128eeb-0ab3-483e-9a0d-a854d6d2d2a5" alt="Lighting_01_iching" width="100%"> | <img src="https://github.com/user-attachments/assets/7892fc39-9dc2-453c-9ad5-d2699995ecc3" alt="Lighting_01_unipc" width="100%"> | <img width="1280" height="720" alt="Lighting_01_dpm" src="https://github.com/user-attachments/assets/82d8bc92-973e-4fca-9804-f1e9c3e45876" /> |
+
+
+
 
 #### **Prompt 2:** `[在此处填入您的提示词 / Your Prompt Here]`
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
