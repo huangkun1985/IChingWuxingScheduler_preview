@@ -109,10 +109,26 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 | :---: | :---: | :---: |
 | <img width="1280" height="720" alt="Lighting_03_iching" src="https://github.com/user-attachments/assets/3ab29020-5420-421a-9037-a753ee428126" /> | <img width="1280" height="720" alt="Lighting_03_unipc" src="https://github.com/user-attachments/assets/8fa7bf43-5ba6-4d06-acb4-b9c84fa8a6eb" /> | <img width="1280" height="720" alt="Lighting_03_dpm" src="https://github.com/user-attachments/assets/c5ad284c-17f8-460d-b98d-949ac5ef2199" /> |
 
-#### **Prompt 4:** `[在此处填入您的提示词 / Your Prompt Here]`
+
+
+
+
+#### **Prompt 4:** 
+
+[真实感真人电影，低对比度画面，高动态镜头。, 高科技生物实验室里，老猎人（风霜刻满皮肤，穿苔绿粗纺毛衣，编织纹理不规则，宽松袖子）快速操作精密设备，培养皿内样本剧烈变化，液体飞溅；镜头切至暴风雨中古老帆船，猎人紧握舵轮，船身随浪倾斜，暴雨抽打面部；表情从实验室沉思转为帆船时的坚定，浅色眉毛自然，眉峰明显，眉尾微扬；吊灯照明，整体朴赞郁复仇风格。]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![Placeholder](path/to/your/video4_ours.gif) | ![Placeholder](path/to/your/video4_unipc.gif) | ![Placeholder](path/to/your/video4_dpm.gif) |
+| <img width="1088" height="1920" alt="png__00001_" src="https://github.com/user-attachments/assets/14213b42-b31a-409f-926a-f6b3412bb1ea" /> | <img width="1088" height="1920" alt="png__00001_" src="https://github.com/user-attachments/assets/ca2a5ed2-7a15-460a-a4ca-b6e7c2ea234a" /> | <img width="1088" height="1920" alt="png__00001_" src="https://github.com/user-attachments/assets/05a64339-02f7-48a9-b7a4-cb33955249b3" />|
+
+
+
+
+
+
+
+
+
+
 
 #### **Prompt 5:** `[在此处填入您的提示词 / Your Prompt Here]`
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
@@ -185,30 +201,73 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 
 
 
-#### **Prompt 4:** `[在此处填入您的提示词 / Your Prompt Here]`
-| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
-| :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
 
-#### **Prompt 5:** `[在此处填入您的提示词 / Your Prompt Here]`
-| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
-| :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
 
-#### **Prompt 6:** `[在此处填入您的提示词 / Your Prompt Here]`
-| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
-| :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
 
-#### **Prompt 7:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 4:** 
+[真实感真人电影，低对比度画面，高动态镜头。, 半身动态镜头：火车终点站电子屏闪烁，年轻黑客天才（苔绿粗纺毛衣，宽松袖子）单手撑着控制台，右手快速敲击全息键盘，指尖在虚拟界面跳跃，嘴角微扬，眼神专注柔和；镜头旋推至旋转楼梯，他小跑登顶，站在老式照明控制台前，手指轻触旋钮调整光束角度，鼻梁挺直，鼻尖圆润，表情温和；剪影光线下，李安式细腻情感风格。]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
+| <img width="1920" height="1088" alt="wuxing-lowstep__00002" src="https://github.com/user-attachments/assets/0e24d97d-9bc7-4916-aedc-092c4fdea969" /> | <img width="1920" height="1088" alt="unipc__00002" src="https://github.com/user-attachments/assets/a552766e-952d-400d-b6ac-987f94507d93" /> | <img width="1920" height="1088" alt="dpm_sde__00002" src="https://github.com/user-attachments/assets/ed3053a3-7a2e-4b2e-ae1e-cfe9dcde1c82" /> |
 
-#### **Prompt 8:** `[在此处填入您的提示词 / Your Prompt Here]`
+
+
+
+
+
+
+
+
+
+#### **Prompt 5:** 
+[真实感真人电影，低对比度画面，高动态镜头。, 近景：废弃纺织工厂内，锈蚀严重的纺织机械旁棉絮纷飞。主角为神秘时空旅行者，身着哑光军绿色战术背心（多层绑带设计，可调节肩带腰带），初始交叉站立，眉头高挑、眼睛微眯、嘴角上扬，面露机智狡黠。随即驾驶战斗机在云端穿梭，熟练操控仪表与武器系统，镜头倾斜推进。最后特写其鼻型：挺拔高鼻梁、窄小鼻翼、圆润鼻尖。山峰侧光，整体夏布洛尔中产阶级风格。]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
+| <img width="1920" height="1088" alt="wuxing-lowstep__00005" src="https://github.com/user-attachments/assets/40ca7cfa-5a29-4bd0-a8ca-3da5ababd3dd" /> | <img width="1920" height="1088" alt="unipc__00005" src="https://github.com/user-attachments/assets/0ac0e99a-2025-49b9-b381-e456fa6ea702" /> | <img width="1920" height="1088" alt="dpm_sde__00005" src="https://github.com/user-attachments/assets/a91cdacb-fe50-4450-9900-1229d1f9058c" /> |
+
+
+
+
+
+
+
+
+
+
+#### **Prompt 6:** 
+[真实感真人电影，低对比度画面，高动态镜头。, 古老的武器锻造工坊，铁砧、风箱静置，火炉残留锻造痕迹。主角为孤独机器人艺术家，身着及膝芥末黄羊驼毛外套（收腰、细腻绒毛），初始鱼钩式仰卧，双腿弯曲，脚跟近臀，双手抓脚踝，表情迷茫（眼角下垂、嘴角微张、面部困惑）。随后驾驶古老战车冲锋，挥舞武器与敌人激烈交战，配合垂直推进镜头。最终特写脸部：浓密粗犷的八字眉（眉尾自然延伸），暖色调光，贾木许独立风格。]
+| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
+| :---: | :---: | :---: |
+| <img width="1920" height="1088" alt="wuxing-lowstep__00006" src="https://github.com/user-attachments/assets/ea490e5e-6499-4c04-b336-883a3058f282" /> | <img width="1920" height="1088" alt="unipc__00006" src="https://github.com/user-attachments/assets/dd822832-872b-48ad-a320-97516785efd6" /> | <img width="1920" height="1088" alt="dpm_sde__00006" src="https://github.com/user-attachments/assets/f9dedac6-6bb8-4d27-8ece-2b05b377660a" /> |
+
+
+
+
+
+
+
+
+
+
+
+
+#### **Prompt 7:** 
+[真实感真人电影，低对比度画面，高动态镜头。, 远景，古老城堡塔楼石墙斑驳，狭窄螺旋楼梯向上延伸，风声从箭窗呼啸。主角为严厉军事教官，身着金属质感金色连体衣，镜面效果与几何拼接线条分明。他沿楼梯下行，进入地下宫殿后攀爬至石台，操作古老机关齿轮，底光笼罩。表情始终双眉紧锁，眼神锐利如刀，嘴角紧绷，面部线条紧绷显严厉。配合环绕推近，昆汀式快节奏剪辑。]
+| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
+| :---: | :---: | :---: |
+| <img width="1920" height="1088" alt="wuxing-lowstep__00021" src="https://github.com/user-attachments/assets/190fb210-4e96-4dac-b83e-dde3db7c4931" /> | <img width="1920" height="1088" alt="unipc__00021" src="https://github.com/user-attachments/assets/be49eb59-2669-42eb-84c9-bcdc974a3e87" /> | <img width="1920" height="1088" alt="dpm_sde__00021" src="https://github.com/user-attachments/assets/8133c126-4f43-4cc3-bce6-e336371b170c" /> |
+
+
+
+
+
+#### **Prompt 8:** 
+[真实感真人电影，低对比度画面，高动态镜头。, 高动态镜头：神秘地下洞穴中，忍者身着午夜蓝缎面夜行衣（表面丝绸光泽，下摆开叉），快速攀爬形态各异的钟乳石，脚下水流声与石壁碰撞声交织。转至迷宫石墙前，他前倾身体，嘴角微抿，眼角细纹紧绷，眼神专注地破解古老谜题。镜头倾斜环绕，最终特写其深邃眼眸（如夜空星辰），长睫毛在花朵光影下投下阴影，整体延续维斯康蒂华丽风格。]
+| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
+| :---: | :---: | :---: |
+| <img width="1920" height="1088" alt="wuxing-lowstep__00023" src="https://github.com/user-attachments/assets/dd62d130-71de-4dc0-b58e-012b16b22104" /> | <img width="1920" height="1088" alt="unipc__00023" src="https://github.com/user-attachments/assets/53729956-efa4-4f2d-aee6-d9f47d4fc527" /> | <img width="1920" height="1088" alt="dpm_sde__00023" src="https://github.com/user-attachments/assets/4cf096ad-581e-42ac-92c4-442b5747a7a8" /> |
+
+
 
 #### **Prompt 9:** `[在此处填入您的提示词 / Your Prompt Here]`
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
