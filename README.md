@@ -74,7 +74,11 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 <!-- 您可以在下方每个 Prompt 处填入您的提示词，并在表格中填入对应的视频/GIF路径 -->
 <!-- You can fill in your prompts below and add the corresponding video/GIF paths in the tables. -->
 
-#### **Prompt 1:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 1:** 
+[关键词组合:
+中景特写, 远景镜头, 摇臂镜头, 场景光源, 轮廓光, 夜晚, 暖色调, 沉思的, 平静的, 慢动作, 火焰, 烟雾, 电影场景, 电影感, 优雅
+详细场景描述:
+在静谧的夜晚，一位气质平静而优雅的韩国上班族女孩独自站在公车站的候车台上。她双手小心翼翼地看着一封展开的信。公车站台上的日光灯管是主要的场景光源，冷色调的光芒映照在她沉思的脸庞上，并在她的发梢和侧脸勾勒出柔和的轮廓光。镜头从她的中景特写开始，捕捉她闭上双眼，仿佛在思念一个过往的瞬间，眼眶湿润。然后，她缓缓松开手，动作轻柔而坚定（慢动作）。随着信纸缓缓落下，镜头平滑地向上和向后拉远（摇臂镜头），最终变成一个远景镜头。画面中，她娇小的身影在空旷的公车站台上凝望着夜空，而那那个信纸，被路过的汽车气流带起，飘向远方。整个过程极具电影感的诗意。]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/74128eeb-0ab3-483e-9a0d-a854d6d2d2a5" alt="Lighting_01_iching" width="100%"> | <img src="https://github.com/user-attachments/assets/7892fc39-9dc2-453c-9ad5-d2699995ecc3" alt="Lighting_01_unipc" width="100%"> | <img width="1280" height="720" alt="Lighting_01_dpm" src="https://github.com/user-attachments/assets/82d8bc92-973e-4fca-9804-f1e9c3e45876" /> |
@@ -82,15 +86,28 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 
 
 
-#### **Prompt 2:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 2:** 
+[东方女性坐在墓园，环境光线昏暗营造朦胧氛围。女性身穿黑色丝质连衣裙，裙料垂坠感明显。她手持口红，反射微弱光泽。女性侧脸面向镜头，将口红涂在嘴唇上，眼神迷离带有故事感。酒吧背景灯光虚化，色彩偏向青灰色调。女性缓缓转头，发丝在低饱和度画面中飘动。镜头采用推拉变焦手法，从女性肩膀推向面部特写。整体画面对比度降低，呈现电影级视觉效果，冷暖色调，突出女性神秘气质。]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![Placeholder](path/to/your/video2_ours.gif) | ![Placeholder](path/to/your/video2_unipc.gif) | ![Placeholder](path/to/your/video2_dpm.gif) |
+| <img width="1280" height="720" alt="Lighting_02_iching" src="https://github.com/user-attachments/assets/e1cb87da-fd42-4adf-89ac-b77fc45c0ef3" /> | <img width="1280" height="720" alt="Lighting_02_unipc" src="https://github.com/user-attachments/assets/3f8552b1-0d57-4816-ade5-d99a0ce07dbf" /> | <img width="1280" height="720" alt="Lighting_02_dpm" src="https://github.com/user-attachments/assets/0db99121-111c-411a-ad77-885f8126cb8a" /> |
 
-#### **Prompt 3:** `[在此处填入您的提示词 / Your Prompt Here]`
+
+
+
+
+
+
+
+
+
+
+
+#### **Prompt 3:** 
+[跟拍镜头穿行在雨夜的霓虹小巷，地面闪烁着反射的光。镜头紧随一位红衣女子，她步履匆匆，穿过闪烁的招牌与蒸汽缭绕的街角。蓝紫色灯光交错洒落，营造出一种神秘的赛博氛围，湿漉漉的空气中弥漫着电气与孤独感。]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![Placeholder](path/to/your/video3_ours.gif) | ![Placeholder](path/to/your/video3_unipc.gif) | ![Placeholder](path/to/your/video3_dpm.gif) |
+| <img width="1280" height="720" alt="Lighting_03_iching" src="https://github.com/user-attachments/assets/3ab29020-5420-421a-9037-a753ee428126" /> | <img width="1280" height="720" alt="Lighting_03_unipc" src="https://github.com/user-attachments/assets/8fa7bf43-5ba6-4d06-acb4-b9c84fa8a6eb" /> | <img width="1280" height="720" alt="Lighting_03_dpm" src="https://github.com/user-attachments/assets/c5ad284c-17f8-460d-b98d-949ac5ef2199" /> |
 
 #### **Prompt 4:** `[在此处填入您的提示词 / Your Prompt Here]`
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
@@ -134,20 +151,39 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 
 <br>
 
-#### **Prompt 1:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 1:** 
+[在此处填入您的提示词 / Your Prompt Here]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
+| <img width="896" height="512" alt="Detail_01_iching" src="https://github.com/user-attachments/assets/756231f8-1345-406a-8fd2-604e25b4a327" /> | <img width="896" height="512" alt="Detail_01_unipc" src="https://github.com/user-attachments/assets/0593a49c-aaa7-4b1d-90a5-c8d54cca13bc" /> | <img width="896" height="512" alt="Detail_01_dpm" src="https://github.com/user-attachments/assets/aff238c8-d956-40c6-a1ae-f413f0732436" /> |
 
-#### **Prompt 2:** `[在此处填入您的提示词 / Your Prompt Here]`
-| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
-| :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
 
-#### **Prompt 3:** `[在此处填入您的提示词 / Your Prompt Here]`
+
+
+
+
+
+
+
+#### **Prompt 2:** 
+[一个无人机镜头，下方是纽约市中心，一波巨大的海啸冲向城市，街道人群混乱]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
+| <img width="1280" height="720" alt="Detail_02_iching" src="https://github.com/user-attachments/assets/bfec2d28-e5c1-42c6-9e35-49e26467890b" /> | <img width="1280" height="720" alt="Detail_02_unipc" src="https://github.com/user-attachments/assets/0dcec211-ff44-4b7f-a865-359d3755e1ac" /> | <img width="1280" height="720" alt="Detail_02_dpm" src="https://github.com/user-attachments/assets/64543e35-bd3b-4ee6-bd1c-b76c09e5139d" /> |
+
+
+
+#### **Prompt 3:** 
+[东方女性，身穿宫廷装，在苏州园林的院子里散步，面容清晰可见，8k]
+| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
+| :---: | :---: | :---: |
+| <img width="1280" height="720" alt="png__00001_" src="https://github.com/user-attachments/assets/51d559d4-5d94-4a6c-bd7e-231a7993dc8f" /> | <img width="1280" height="720" alt="png__00001_" src="https://github.com/user-attachments/assets/1ae67c93-c76f-4db3-852c-184753018f61" /> | <img width="1280" height="720" alt="png__00001_" src="https://github.com/user-attachments/assets/e49471c0-e1f2-4914-a113-b237f06c91b8" /> |
+
+
+
+
+
+
 
 #### **Prompt 4:** `[在此处填入您的提示词 / Your Prompt Here]`
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
