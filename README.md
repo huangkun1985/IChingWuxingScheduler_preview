@@ -90,7 +90,8 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 [东方女性坐在墓园，环境光线昏暗营造朦胧氛围。女性身穿黑色丝质连衣裙，裙料垂坠感明显。她手持口红，反射微弱光泽。女性侧脸面向镜头，将口红涂在嘴唇上，眼神迷离带有故事感。酒吧背景灯光虚化，色彩偏向青灰色调。女性缓缓转头，发丝在低饱和度画面中飘动。镜头采用推拉变焦手法，从女性肩膀推向面部特写。整体画面对比度降低，呈现电影级视觉效果，冷暖色调，突出女性神秘气质。]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| <img width="1280" height="720" alt="Lighting_02_iching" src="https://github.com/user-attachments/assets/e1cb87da-fd42-4adf-89ac-b77fc45c0ef3" /> | <img width="1280" height="720" alt="Lighting_02_unipc" src="https://github.com/user-attachments/assets/3f8552b1-0d57-4816-ade5-d99a0ce07dbf" /> | <img width="1280" height="720" alt="Lighting_02_dpm" src="https://github.com/user-attachments/assets/0db99121-111c-411a-ad77-885f8126cb8a" /> |
+| <img width="1280" height="720" alt="Lighting_02_iching" src="https://github.com/user-attachments/assets/e1cb87da-fd42-4adf-89ac-b77fc45c0ef3" /> | <img width="1280" height="720" alt="Lighting_02_unipc" src="https://github.com/user-attachments/assets/3f8552b1-0d57-4816-ade5-d99a0ce07dbf" /> | <img width="1280" height="720" alt="Rund02_dpm_plus_sde_1280x720_Pita-RTX3080-982 05sec-0001" src="https://github.com/user-attachments/assets/804c46bc-ee84-4bf7-a34a-67ff1d020469" /> |
+
 
 
 
@@ -168,7 +169,7 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 <br>
 
 #### **Prompt 1:** 
-[在此处填入您的提示词 / Your Prompt Here]
+[东方女性，身穿宫廷装，在巨大的皇宫里穿行]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
 | <img width="896" height="512" alt="Detail_01_iching" src="https://github.com/user-attachments/assets/756231f8-1345-406a-8fd2-604e25b4a327" /> | <img width="896" height="512" alt="Detail_01_unipc" src="https://github.com/user-attachments/assets/0593a49c-aaa7-4b1d-90a5-c8d54cca13bc" /> | <img width="896" height="512" alt="Detail_01_dpm" src="https://github.com/user-attachments/assets/aff238c8-d956-40c6-a1ae-f413f0732436" /> |
@@ -287,40 +288,108 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 
 <br>
 
-#### **Prompt 1:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 1:** 
+[fx567，一个月白素雅汉服的女人站在飞剑上，在连绵的群山上空快速飞行，身后是,身后拖出一道闪电残影]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
+| ![wuxing_00001](https://github.com/user-attachments/assets/d2514ff2-1186-47db-a552-f76166a53d02) | ![unipc_00002](https://github.com/user-attachments/assets/58a1f088-a1e0-443a-baf0-6243e3b0635c) | ![dpm_00001](https://github.com/user-attachments/assets/123c90e0-29d6-45f7-984f-5b6c8129d944) |
 
-#### **Prompt 2:** `[在此处填入您的提示词 / Your Prompt Here]`
-| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
-| :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
 
-#### **Prompt 3:** `[在此处填入您的提示词 / Your Prompt Here]`
-| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
-| :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
 
-#### **Prompt 4:** `[在此处填入您的提示词 / Your Prompt Here]`
-| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
-| :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
 
-#### **Prompt 5:** `[在此处填入您的提示词 / Your Prompt Here]`
-| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
-| :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
 
-#### **Prompt 6:** `[在此处填入您的提示词 / Your Prompt Here]`
-| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
-| :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
 
-#### **Prompt 7:** `[在此处填入您的提示词 / Your Prompt Here]`
+
+
+#### **Prompt 2:** 
+[一个身材壮硕的男人，在街道上快速疾跑,身后拖出一道有闪电残影]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
+| ![iching_00001](https://github.com/user-attachments/assets/d3025752-c10a-4fbc-9308-ac450896b456) | ![unipc_00003](https://github.com/user-attachments/assets/469e5ba1-008d-4bc8-bfc8-a8d865f32df4) | ![dpm_00002](https://github.com/user-attachments/assets/e45fdc20-30c1-4430-9d9f-5bd0cb22357d) |
+
+
+
+
+
+
+
+
+
+
+
+
+#### **Prompt 3:** 
+[真实感真人电影，低对比度画面，高动态镜头。, 虫眼视角：地下实验室冷白灯光下，金属操作台泛着冷光，透明容器里荧光液体晃动，神秘黑猫跨步时前爪搭在操作台，尾巴尖轻扫样本容器，眉头微皱，眼尾上挑，嘴角勾着机警的狡黠。它纵身跃上战术背心，跨出实验室侧门，摩托车从身后轰鸣启动，车把挂着的挂扣随颠簸晃动，驾驶时眯眼紧盯前方，薄唇抿成直线，瞳孔缩成细线，米洛斯现实主义风格，黄昏光线穿透云层洒在车身上。]
+| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
+| :---: | :---: | :---: |
+|![iching_00003](https://github.com/user-attachments/assets/cc202cb7-bb7c-445b-b118-9cbccb62c7e7) | ![unipc_00005](https://github.com/user-attachments/assets/ef180663-3d8c-47b2-8897-6118f8b6e4fb) | ![dpm_00004](https://github.com/user-attachments/assets/c687683a-2832-4593-aea6-f669e46df01e) |
+
+
+
+
+
+
+
+
+
+
+
+
+#### **Prompt 4:** 
+[真实感真人电影，低对比度画面，高动态镜头。, 镜头沿直线推进，从高科技军事基地整齐排列的武器架切至角落：孤独机器人管家（深红色镜面漆皮夹克，贴身剪裁，袖口下摆拉链）呈俯卧撑起始姿势，双手撑地，身体绷直，双腿并拢，核心收紧；嘴角紧绷，眼神警觉，双眉微展。他突然起身小跑，进入古老监狱，弯腰翻找囚犯档案，抬头时目光扫过牢房，表情仍紧绷；特写其鼻梁挺拔、鼻翼窄小、鼻尖微翘的面部比例；台灯光线，德西卡新现实风格。]
+| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
+| :---: | :---: | :---: |
+| ![iching_00004](https://github.com/user-attachments/assets/5b52e7a7-a5c1-41db-bd39-ca10a8b03528) | ![unipc_00006](https://github.com/user-attachments/assets/49c81401-12ae-4dd2-b445-01ffeeec8faa) | ![dpm_00005](https://github.com/user-attachments/assets/ed3cd0ac-2ab9-406d-ba56-dde396cecc87) |
+
+
+
+
+
+
+
+
+
+
+
+#### **Prompt 5:** 
+[真实感真人电影，低对比度画面，高动态镜头。, 高动态镜头：善良独角兽驾驶装甲车穿越战区，装甲车颠簸碾过碎石废墟，硝烟弥漫。它双手紧握方向盘，眼神锐利扫视四周，眉头微蹙，鼻梁线条在动态中凸显。金属装甲反射战区昏黄光线，维斯康蒂华丽风格笼罩画面，背景硝烟与装甲车尾焰交织，动态感强烈。]
+| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
+| :---: | :---: | :---: |
+| ![iching_00005](https://github.com/user-attachments/assets/9904d46f-3bad-4e44-8bcf-ae6d1c13dcf4) | ![unipc_00007](https://github.com/user-attachments/assets/662e6fba-d3c6-45f5-8e03-66302aa22ffb) | ![dpm_00006](https://github.com/user-attachments/assets/8308440f-5194-4785-ae92-c3548802e8c8) |
+
+
+
+
+
+
+
+
+
+#### **Prompt 6:** 
+[真实感真人电影，低对比度画面，高动态镜头。, 神秘水晶矿洞内，由零件拼接的疯狂科学怪人蜷缩着，海蓝色横条纹针织外套袖口罗纹收边，双眉紧锁、眼神严肃。他突然站起，驾驶古老战车冲向古代战场，挥舞武器与敌人激战。镜头螺旋拉远，最终特写其薄唇淡粉、唇线清晰，嘴角微扬露神秘笑意。山峰侧光洒下，场景具夏布洛尔中产阶级质感。]
+| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
+| :---: | :---: | :---: |
+| ![iching_00006](https://github.com/user-attachments/assets/08c9b04a-9c0d-4bba-859c-e0ebc0248a7e) | ![unipc_00008](https://github.com/user-attachments/assets/3c1db0ce-f431-4340-8c11-cf3a217a0d6a) | ![dpm_00007](https://github.com/user-attachments/assets/40833790-97c7-4908-b370-324cf94a1131) |
+
+
+
+
+
+
+
+
+#### **Prompt 7:** 
+[真实感真人电影，低对比度画面，高动态镜头。, S形构图，古老图书馆书架高耸入云，暖黄灯光下羊皮纸与墨水味弥漫，翻页声轻响。年轻基因工程师穿午夜蓝缎面外套（丝绸光泽，下摆开叉），站立时身体挺直，眉头微蹙，眼神坚定，嘴角微抿。镜头侧向摇摄，切至昏暗实验室，冷白实验灯下调试电子设备，数据波形在屏幕跳动，他全神贯注，表情依旧坚定。镜头快速推近，特写其嘴唇规整、唇色自然、嘴角平直。米洛斯现实主义风格，舞台灯光。]
+| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
+| :---: | :---: | :---: |
+| ![iching_00007](https://github.com/user-attachments/assets/5fee4e99-9b48-4d8d-9bfd-632e61c8e5fc) | ![unipc_00009](https://github.com/user-attachments/assets/2bebe002-c702-4799-860b-bf360efeb85e) | ![dpm_00008](https://github.com/user-attachments/assets/aee59a7c-3628-41e2-8d24-37d498bab8ff) |
+
+
+
+
+
+
+
 
 #### **Prompt 8:** `[在此处填入您的提示词 / Your Prompt Here]`
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
