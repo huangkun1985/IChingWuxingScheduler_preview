@@ -131,15 +131,33 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 
 
 
-#### **Prompt 5:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 5:** 
+[魔幻变身镜头，龙舟从水面腾空，在飞扬的水幕中，船体发出戏曲的璀璨光芒，收缩变形为一位身穿华丽蓝色绣龙蟒袍、头戴珍珠凤冠的粤剧武生。他以一个经典的戏剧亮相姿态从空中缓缓降落，袍袖飞舞，面部妆容精致，眼神锐利，背景是舞台般的追光效果。极致华丽，色彩浓郁，细节奢华。]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![Placeholder](path/to/your/video5_ours.gif) | ![Placeholder](path/to/your/video5_unipc.gif) | ![Placeholder](path/to/your/video5_dpm.gif) |
+| <img width="1280" height="720" alt="png__00004_" src="https://github.com/user-attachments/assets/e885573f-f404-4e7d-af51-64c9548c6092" /> | <img width="1280" height="720" alt="png__00004_" src="https://github.com/user-attachments/assets/13de46e6-9535-4ba6-bee3-9ba02b63423b" /> | <img width="1280" height="720" alt="png__00004_" src="https://github.com/user-attachments/assets/da9c737b-5d7e-4806-905a-8fc2e5a3604a" /> |
 
-#### **Prompt 6:** `[在此处填入您的提示词 / Your Prompt Here]`
+
+
+
+
+
+
+
+
+#### **Prompt 6:** 
+[Ultra-detailed fantasy portrait of a majestic fluffy white cat sitting on a luxurious golden throne, dressed in an extravagant royal gown richly decorated with sparkling jewels, pearls, and embroidery. The cat has long silky fur, piercing blue eyes, and an elaborate rococo hairstyle adorned with a diamond and emerald crown. It elegantly holds a cigar in one paw and a martini glass in the other, from which she slowly drinks, exuding aristocratic charm and power. The atmosphere is regal and opulent, with soft warm lighting, golden reflections, and a baroque interior in the background. Hyperrealistic details, cinematic style, masterpiece digital painting.]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![Placeholder](path/to/your/video6_ours.gif) | ![Placeholder](path/to/your/video6_unipc.gif) | ![Placeholder](path/to/your/video6_dpm.gif) |
+| <img width="1280" height="720" alt="png__00002_" src="https://github.com/user-attachments/assets/ad22cdae-400e-4728-8e5e-a95fef1e8bd4" /> | <img width="1280" height="720" alt="png__00002_" src="https://github.com/user-attachments/assets/05ad9df3-49b5-4e48-a4bc-ebb3d855ce1b" /> | <img width="1280" height="720" alt="png__00002_" src="https://github.com/user-attachments/assets/5cde1e81-9907-4f8c-b9fd-fb4ccdae6ef2" /> |
+
+
+
+
+
+
+
+
 
 #### **Prompt 7:** `[在此处填入您的提示词 / Your Prompt Here]`
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
@@ -270,15 +288,19 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 
 
 
-#### **Prompt 9:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 9:** 
+[第一人称视角在崩塌都市中逃亡，巨型怪兽撞击摩天大楼引发建筑坍塌，水泥碎片伴随剧烈震动不断坠落，怪兽巨尾从头顶横扫而过，极广角镜头呈现建筑倾斜与地面开裂，城市笼罩在灰尘烟雾中色调阴郁，末日氛围浓厚，如同灾难电影场景]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
+| <img width="1280" height="720" alt="wuxing-lowstep__00006" src="https://github.com/user-attachments/assets/c2a3e868-9c2f-4c64-afe1-fa6f4d687e97" /> | <img width="1280" height="720" alt="unipc__00006" src="https://github.com/user-attachments/assets/577317cf-a857-4f32-882a-b35a588b4efb" /> | <img width="1280" height="720" alt="dpm_sde__00006" src="https://github.com/user-attachments/assets/ae979fe2-ace7-4a3a-993d-42f9d72e40d9" /> |
 
-#### **Prompt 10:** `[在此处填入您的提示词 / Your Prompt Here]`
+
+
+#### **Prompt 10:** 
+[Locked-off crane rise: a column of Han cavalry charges through the breached camp, hooves drumming as ground-level flames flicker and sway. Farther back, inside the camp, scattered fires gently ripple in the wind—an epic raid frozen in seamless, liquid motion, frame untouched]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
+|<img width="1280" height="720" alt="png__00003_" src="https://github.com/user-attachments/assets/c4ed651f-c23c-4609-9495-e5bc882204c0" /> | <img width="1280" height="720" alt="png__00003_" src="https://github.com/user-attachments/assets/4e77eeec-b067-4abe-b2df-f9a6811afc83" /> | <img width="1280" height="720" alt="png__00003_" src="https://github.com/user-attachments/assets/dfb778ad-c569-4915-ad93-054afe119299" /> |
 
 
 ---
@@ -391,19 +413,43 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 
 
 
-#### **Prompt 8:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 8:** 
+[第 1 秒：特写镜头聚焦于白色云龙的面部，龙鳞细腻纹理在云雾中若隐若现，龙须轻轻摆动，云雾缭绕如绸缎升腾，背景渐渐透出紫色，龙眼微微闪烁着威严的冷光。
+第 2 秒：镜头向下移动到孩童背影，低视角表现她的坚定站姿，红色衣服的纹路随微风轻摆，发髻上的红绳轻轻飘动，孩童的影子在白色地面上拉长，云龙的巨大身影笼罩着她。
+第 3 秒：中景镜头展现云龙盘旋的整体姿态，龙身如舞动的巨蟒盘绕，云雾被龙的动作搅动成漩涡状，孩童的身影在画面中央显得渺小而倔强，云龙的气息形成轻微的风涌。
+第 4 秒：全景镜头拉远，云龙庞大的身躯占据画面大部分，云雾扩散至整个场景，孩童处于画面下方中央，红色衣物与白色云龙形成强烈对比，场景呈现出宏大的氛围。
+第 5 秒：特写镜头推近至云龙的眼睛，龙瞳中闪烁着锐利光芒，微弱的光线从云雾中穿透，静谧的氛围中透露出威压感，画面定格于龙与孩童的对峙，营造紧张而神秘的冲突感。
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
+| ![wuxing_00002](https://github.com/user-attachments/assets/c973286f-f58c-465c-a8db-49dd2723ac89) | ![unipc_00010](https://github.com/user-attachments/assets/af98efd2-4e05-426c-9898-bdc5e96a91f5) | ![dpm_00008](https://github.com/user-attachments/assets/829b4d92-938a-4011-885d-28ed857a6227) |
 
-#### **Prompt 9:** `[在此处填入您的提示词 / Your Prompt Here]`
-| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
-| :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
 
-#### **Prompt 10:** `[在此处填入您的提示词 / Your Prompt Here]`
+
+
+
+
+
+
+
+#### **Prompt 9:** 
+[一只橘猫表情极度惊恐的在自拍，边奔跑边自拍，一头大象在后面疯狂追赶它，镜头摇晃，自拍运镜]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| &nbsp; | &nbsp; | &nbsp; |
+| ![wuxing_00003](https://github.com/user-attachments/assets/08edd2aa-eaa3-494c-ab1f-22baadae96ea) | ![unipc_00011](https://github.com/user-attachments/assets/195d3892-0d2d-460a-b5be-031d1b4c0b52) | ![dpm_00010](https://github.com/user-attachments/assets/81bc7c1f-ebc3-4e36-8f8d-b745abfefea7) |
+
+
+
+
+
+
+
+
+#### **Prompt 10:** 
+[提示词：延时拍摄，黄昏，日落，边缘光，中全景，侧光，暖色调，柔光，对比度适中，构图采用中心构图。镜头中，一个拟人化的金属机器人行走在繁忙的城市街道上。它的外壳呈现出银灰色光泽，身体结构精密，关节处有细微的机械纹理。机器人身高约两米，头部呈椭圆形，配有两盏微微发光的蓝色感应器作为眼睛。它双臂自然摆动，步伐稳健，行走时腿部关节发出轻微的液压声。街道两侧是高耸的玻璃幕墙大楼，夕阳余晖洒在建筑与机器人身上，形成柔和的轮廓光。行人穿梭于画面背景，模糊处理的人群增添都市节奏感。地面铺满灰黑色沥青，部分区域反射着天空与建筑物的倒影。]
+| IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
+| :---: | :---: | :---: |
+| ![iching_00008](https://github.com/user-attachments/assets/92b35dfb-206c-4a4c-881b-82edcc76b65a) | ![unipc_00012](https://github.com/user-attachments/assets/6b32908d-0478-4d04-9059-5df71a2e6549) | ![dpm_00012](https://github.com/user-attachments/assets/f1a5d47e-ea52-4fce-a492-123dca112b9f) |
+
+
 
 ---
