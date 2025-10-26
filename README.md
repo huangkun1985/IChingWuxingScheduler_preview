@@ -187,10 +187,28 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 
 
 
-#### **Prompt 9:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 9:** 
+[在一座华丽的殿堂中，女王穿着白色长袍，戴着王冠从楼梯中走下来，镜头跟随女王的姿态，电影质感]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![Placeholder](path/to/your/video9_ours.gif) | ![Placeholder](path/to/your/video9_unipc.gif) | ![Placeholder](path/to/your/video9_dpm.gif) |
+| <img width="1280" height="720" alt="iching_seed42_6step" src="https://github.com/user-attachments/assets/cbb61c7c-2d5c-41a1-9f06-dababa684e51" /> | <img width="1280" height="720" alt="uni_seed42_6step" src="https://github.com/user-attachments/assets/2bfda659-e50a-4def-9b58-4a2dd5c582f5" /> | <img width="1280" height="720" alt="dpm_seed42_6step" src="https://github.com/user-attachments/assets/6c141e2d-9897-4b88-b2fe-742b67f9fe00" /> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### **Prompt 10:** `[在此处填入您的提示词 / Your Prompt Here]`
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
