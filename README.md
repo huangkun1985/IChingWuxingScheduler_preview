@@ -210,10 +210,32 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 
 
 
-#### **Prompt 10:** `[在此处填入您的提示词 / Your Prompt Here]`
+#### **Prompt 10:** 
+[主体： 一位优雅的中国美女，长发飘逸，身着简约白色连衣裙
+
+光影效果：
+
+柔和的侧光从窗户斜射进来，营造温暖的金色调
+脸部有细腻的伦勃朗光影（三角光）
+背景虚化，光斑柔和散景效果
+眼中闪烁着自然的光点
+镜头语言：
+
+缓慢推拉镜头，从全景到特写
+浅景深，电影级虚化
+4K超清画质，帧率30fps
+氛围： 安静、梦幻、电影感强烈，类似王家卫风格的浪漫光影]
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![Placeholder](path/to/your/video10_ours.gif) | ![Placeholder](path/to/your/video10_unipc.gif) | ![Placeholder](path/to/your/video10_dpm.gif) |
+| <img width="1280" height="720" alt="wuxing-lowstep__00007" src="https://github.com/user-attachments/assets/04c04d58-1ce4-4df4-9118-0e91f2125a7c" /> | <img width="1280" height="720" alt="unipc__00007" src="https://github.com/user-attachments/assets/13570d7c-0552-45c4-89f4-05fbf962cb3b" /> | <img width="1280" height="720" alt="dpm_sde__00007" src="https://github.com/user-attachments/assets/dfdf4d58-d2cc-4c1c-9be9-71ee90c98a54" /> |
+
+
+
+
+
+
+
+
 
 ---
 
