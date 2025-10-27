@@ -479,7 +479,8 @@ To demonstrate our advantages more intuitively, we've conducted side-by-side com
 第 5 秒：特写镜头推近至云龙的眼睛，龙瞳中闪烁着锐利光芒，微弱的光线从云雾中穿透，静谧的氛围中透露出威压感，画面定格于龙与孩童的对峙，营造紧张而神秘的冲突感。
 | IChingWuxingScheduler (Ours / 我们的) | UniPC | DPM++ |
 | :---: | :---: | :---: |
-| ![wuxing_00002](https://github.com/user-attachments/assets/c973286f-f58c-465c-a8db-49dd2723ac89) | ![unipc_00010](https://github.com/user-attachments/assets/af98efd2-4e05-426c-9898-bdc5e96a91f5) | ![dpm_00008](https://github.com/user-attachments/assets/829b4d92-938a-4011-885d-28ed857a6227) |
+| ![wuxing_00002](https://github.com/user-attachments/assets/c973286f-f58c-465c-a8db-49dd2723ac89) | ![unipc_00010](https://github.com/user-attachments/assets/af98efd2-4e05-426c-9898-bdc5e96a91f5) | ![dpm_00009](https://github.com/user-attachments/assets/c1588593-f7e4-4f5c-8ab5-7d259c6ef9f3)
+ |
 
 
 
